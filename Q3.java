@@ -32,6 +32,6 @@ public class Q3 {
                 return false;
             }
         }
-        return true ;
+        return true;
 }
 }
